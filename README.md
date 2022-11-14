@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focusing on **Understanding High-dimensional Data and Computational Design**
 
-- 📝 I regularly write articles on [my personal website](https://zengxingchen.github.io/posts/)
+- 📝 I regularly write articles on [my personal website](https://zengxingchen.com)
 
 - 📫 Contact me [here](xingchen.zeng@outlook.com)
 
