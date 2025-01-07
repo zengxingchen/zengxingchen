@@ -6,3 +6,6 @@
 
 <p align="left">
 </p>
+
+[![Xingchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zengxingchen)]()
+
